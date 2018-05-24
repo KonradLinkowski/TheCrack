@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 801d0ff01939c5449ad0d7caf78028cc
+timeCreated: 1443463113
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arm_base_L
+    100002: arm_base_R
+    100004: arm_down_L
+    100006: arm_down_R
+    100008: arm_up_L
+    100010: arm_up_R
+    100012: Armature
+    100014: body_all_ctrl_001
+    100016: body_up_ctrl
+    100018: bohaterka
+    100020: //RootNode
+    100022: bohaterka_MeshPart0
+    100024: bohaterka_MeshPart1
+    100026: chest
+    100028: f_m_1_L
+    100030: f_m_1_R
+    100032: f_m_2_L
+    100034: f_m_2_R
+    100036: f_t_1_L
+    100038: f_t_1_R
+    100040: f_t_2_L
+    100042: f_t_2_R
+    100044: ff_L
+    100046: ff_R
+    100048: foot_IK_L
+    100050: foot_IK_R
+    100052: foot_L
+    100054: foot_R
+    100056: hair_1
+    100058: hair_2
+    100060: hair_3
+    100062: hand_L
+    100064: hand_R
+    100066: head
+    100068: heal_IK_L
+    100070: heal_IK_R
+    100072: hips
+    100074: hips_IK
+    100076: leg_down_L
+    100078: leg_down_R
+    100080: leg_up_L
+    100082: leg_up_R
+    100084: neck
+    100086: spine
+    400000: arm_base_L
+    400002: arm_base_R
+    400004: arm_down_L
+    400006: arm_down_R
+    400008: arm_up_L
+    400010: arm_up_R
+    400012: Armature
+    400014: body_all_ctrl_001
+    400016: body_up_ctrl
+    400018: bohaterka
+    400020: //RootNode
+    400022: bohaterka_MeshPart0
+    400024: bohaterka_MeshPart1
+    400026: chest
+    400028: f_m_1_L
+    400030: f_m_1_R
+    400032: f_m_2_L
+    400034: f_m_2_R
+    400036: f_t_1_L
+    400038: f_t_1_R
+    400040: f_t_2_L
+    400042: f_t_2_R
+    400044: ff_L
+    400046: ff_R
+    400048: foot_IK_L
+    400050: foot_IK_R
+    400052: foot_L
+    400054: foot_R
+    400056: hair_1
+    400058: hair_2
+    400060: hair_3
+    400062: hand_L
+    400064: hand_R
+    400066: head
+    400068: heal_IK_L
+    400070: heal_IK_R
+    400072: hips
+    400074: hips_IK
+    400076: leg_down_L
+    400078: leg_down_R
+    400080: leg_up_L
+    400082: leg_up_R
+    400084: neck
+    400086: spine
+    2300000: bohaterka_MeshPart0
+    2300002: bohaterka_MeshPart1
+    3300000: bohaterka_MeshPart0
+    3300002: bohaterka_MeshPart1
+    4300000: bohaterka_MeshPart0
+    4300002: bohaterka_MeshPart1
+    7400000: Default Take
+    7400002: Walk
+    7400004: Run
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
